@@ -130,6 +130,11 @@ footer.footer {
   ;
 }
 
+.button-purple {
+  color: #8074D9;
+  background-color: #ffff;
+}
+
 .bg-purple {
   background-color: #8074D9;
 }
