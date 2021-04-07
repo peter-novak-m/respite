@@ -24,6 +24,8 @@ header.masthead {
   background: url("../img/bg-masthead.jpg") no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   padding-top: 8rem;
   padding-bottom: 8rem;
 }
